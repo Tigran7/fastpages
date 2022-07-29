@@ -4,8 +4,8 @@
         "post0": {
             "title": "Command Line",
             "content": "Navigating File System . filesystem organizes data stored by computer | tree-like structure root directory is the base of the tree | parent directory contains children | . | . Helper Commands . tab, autocomplete line | up and down arrow key, cycle through previous commands | clear, clear terminal | . pwd . pwd displays the file path from the root directory to the current working directory. . mkdir . make new directory . ls . list contents of directory . options . Options modify the behavior of a command . -a, lists all contents, including hidden files and directories | -l, lists all contents of a directory in long format, as well as the file permissions | -t, orders files and directories by the time they were last modified | . cd . Used to move through filesystems, &#39;change directory&#39; . Full file paths, /c/Users/Thomas/Favorites/Pictures | children of current directory, cd Thomas/ | .. or../.. to go back to parent of directory | touch . create file in working directory, touch grocery-list.txt .",
-            "url": "https://tigran7.github.io/fastpages/2022/07/28/Command-Line-Guide-(1).html",
-            "relUrl": "/2022/07/28/Command-Line-Guide-(1).html",
+            "url": "https://tigran7.github.io/fastpages/2022/07/28/Command-Line-Guide.html",
+            "relUrl": "/2022/07/28/Command-Line-Guide.html",
             "date": " • Jul 28, 2022"
         }
         
